@@ -5,8 +5,8 @@ cd
 
 dir /B
 
-dir ..\downloads
+dir /b C:\Users\%username%\Downloads > downloads.txt
 
-ipconfig
+ipconfig 
 	
 pause
